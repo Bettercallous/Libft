@@ -1,11 +1,26 @@
-# LIBFT
+<h1 align="center">
+	:books: LIBFT
+</h1>
 
-## Implementation of some of the Standard C Library functions
+<p align="center">
+<b><i>Implementation of some of the Standard C Library functions</i></b><br>
+</p>
+
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Bettercallous/libft?color=red" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/Bettercallous/libft?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Bettercallous/libft?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bettercallous/libft?color=green" />
+</p>
+
+---
+
+## 💡 About the project :
 
 Libft is the first project in the 42 curriculum. It requires us to re-create some standard C library functions including some additional ones that can be used in the future projects.
 At 42 we're not allowed to use some standard libraries on our projects, therefore we have to keep growing this library with our own functions as we go farther in the curriculum.
 
-**!NOTE** <br />
+**:heavy_exclamation_mark: NOTE** <br />
 Because of 42 School norm requirements: <br />
 * All variables are declared and aligned at the top of each function <br />
 * Each function can't have more then 25 lines of code <br />
@@ -17,7 +32,7 @@ Because of 42 School norm requirements: <br />
 * Additional functions
 * Bonus part functions
 
-### How to compile library:
+### 🛠️ How to compile library:
 
 Using Makefile you can create library file libft.a<br/>
 Makefile has 4 main options:<br/>
