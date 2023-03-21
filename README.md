@@ -38,7 +38,7 @@ Makefile has 4 main options:<br/>
 | memmove | copy byte string |
 | memchr | locate byte in byte string |
 | memcmp | compare byte string |
-| strlen | find length of string |
+| strlen | get length of string |
 | strdup | save a copy of a string |
 | strcpy | copy strings |
 | strncpy | copy strings size of n |
