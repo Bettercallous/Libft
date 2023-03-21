@@ -1,4 +1,5 @@
-# libft
+# LIBFT
+
 ## Implementation of some of the Standard C Library functions
 
 Libft is the first project in the 42 curriculum. It requires us to re-create some standard C library functions including some additional ones that can be used in the future projects.
